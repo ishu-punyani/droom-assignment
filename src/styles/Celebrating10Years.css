@@ -1,11 +1,138 @@
 .celebrating10years {
-    height: 731px;
-    width: 1440px;
-    background-color: #031926;
+  height: 1477px;
+  width: 1440px;
+  background-color: #031926;
+  position: relative;
+}
+.building {
+  height: 551px;
+  width: 551px;
+  background: transparent
+    url("../assets/images/modern-office-skyscraper-highrise-building-with-glass-facade.png")
+    0% 0% no-repeat padding-box;
+  position: absolute;
+  z-index: 1;
+  top: 88px;
+}
+.sandeep-image {
+  height: 505px;
+  width: 366px;
+  background: transparent url("../assets/images/DSC05812_1.png") 0% 0% no-repeat
+    padding-box;
+  position: absolute;
+  z-index: 2;
+  top: 134px;
+  left: 62.5px;
+}
+.rectangle {
+  width: 720px;
+  height: 380px;
+  background: transparent url("../assets/images/Rectangle\ 71281.png") 0% 0%
+    no-repeat padding-box;
+  position: absolute;
+  z-index: 3;
+  top: 317px;
+}
+.sandeep-aggarwal {
+  width: 300px;
+  height: 83px;
+  background: #fdf4e3 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 11px;
+  opacity: 1;
+  position: absolute;
+  z-index: 4;
+  top: 502px;
+  left: 80px;
+}
+.sandeep-aggarwal h1 {
+  margin: 0;
+  width: 232px;
+  height: 37px;
+  position: absolute;
+  top: 11px;
+  left: 34px;
+}
+.sandeep-aggarwal h3 {
+  margin: 0;
+  width: 147px;
+  height: 19px;
+  position: absolute;
+  top: 51px;
+  left: 27px;
+}
+.heading {
+  margin: 0;
+  width: 460px;
+  height: 64px;
+  position: absolute;
+  top: 75px;
+  left: 550px;
+}
+.sub-heading {
+  margin: 0;
+  width: 527px;
+  height: 32px;
+  position: absolute;
+  top: 144.73px;
+  left: 550px;
+}
+.content {
+  margin: 0;
+  width: 810px;
+  height: 66px;
+  position: absolute;
+  top: 190.46px;
+  left: 550px;
+}
+.droom-badshah-ticket {
+  width: 810px;
+  height: 360px;
+  background: transparent url("../assets/images/Group\ 164772.png") 0% 0%
+    no-repeat padding-box;
+  position: absolute;
+  z-index: 5;
+  top: 285px;
+  left: 550px;
+}
+.Group-164796 {
+  width: 1440px;
+  height: 350px;
+  background: transparent url("../assets/images/Group\ 164796.png") 0% 0%
+    no-repeat padding-box;
+  position: absolute;
+  top: 731px;
+}
+.spl-guest-text {
+  margin: 0;
+  width: 428px;
+  height: 48px;
+  position: absolute;
+  top: 1021.23px;
+  left: 129.86px;
+}
+.Badshah {
+  width: 539.5px;
+  height: 97.9px;
+  background: transparent url("../assets/images/Group\ 164741.png") 0% 0%
+    no-repeat padding-box;
+  position: absolute;
+  top: 1097.3px;
+  left: 80px;
+}
+.Badshah-car {
+  width: 611.33px;
+  height: 623.29px;
+  background: transparent url("../assets/images/Cutout-Badhshah.png") 0% 0%
+    no-repeat padding-box;
+  position: absolute;
+  top: 785.65px;
+  left: 748.76px;
 }
 
-@media (max-width: 768px) { /* Tablet view */
-    .celebrating10years {
-        width: 100%;
-      }
+@media (max-width: 768px) {
+  /* Tablet view */
+  .celebrating10years {
+    width: 100%;
   }
+}

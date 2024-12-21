@@ -1,0 +1,22 @@
+.droomBrandRecognition{
+    height: 902.49px;
+  width: 1440px;
+  background-color: #031926;
+  position: relative;
+}
+.dbr{
+    width: 590px;
+    height: 64px;
+    margin: 0;
+    position: absolute;
+    left: 421px;
+}
+.recognition-img {
+    width: 1280px;
+    height: 731px;
+    background: transparent url("../assets/images/Group\ 164790.png") 0% 0%
+      no-repeat padding-box;
+    position: absolute;
+    top: 92px;
+    left: 80px;
+  }

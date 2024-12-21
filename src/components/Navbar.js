@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <div className="navbar">
       <div className="navbar-content">
-        <div className="droom-logo">Droom</div>
+        <div className="droom-logo"></div>
         <div className="links">
           <div id="link1" className="Cera-Pro">
             Celebrating 10 Years

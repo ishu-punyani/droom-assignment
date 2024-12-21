@@ -12,12 +12,12 @@
 .droom-logo {
   min-width: 160px;
   height: 108px;
+  background: transparent url("../assets/images/Droom_logo.png") 0% 0%
+    no-repeat padding-box;
+  background-position: center;
+  background-size: fill;
   margin-top: 17px;
   margin-right: 121px;
-  color: #ffffff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 .Cera-Pro {
   text-align: center;
