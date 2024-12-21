@@ -1,0 +1,79 @@
+.droom-achievements {
+  height: 860.13px;
+  width: 1440px;
+  position: relative;
+  background: transparent url("../assets/images/Group\ 163801.png") 0% 0%
+    no-repeat padding-box;
+  background-position: center;
+}
+.heading-da {
+  margin: 0;
+  width: 586px;
+  height: 64px;
+  position: absolute;
+  top: 29px;
+  left: 468px;
+}
+.sub-heading-da {
+  margin: 0;
+  width: 327px;
+  height: 32px;
+  position: absolute;
+  top: 107.13px;
+  left: 546px;
+}
+.content-da {
+  margin: 0;
+  width: 854px;
+  height: 43px;
+  position: absolute;
+  top: 146.13px;
+  left: 293px;
+}
+.sub-heading-top-stories {
+  margin: 0;
+  width: 116px;
+  height: 32px;
+  position: absolute;
+  top: 246px;
+  left: 376px;
+}
+.sub-heading-top-highlights {
+  margin: 0;
+  width: 152px;
+  height: 32px;
+  position: absolute;
+  top: 246px;
+  left: 1010px;
+}
+.used-vehicle-img {
+    width: 250px;
+    height: 343px;
+    background: transparent url("../assets/images/Group\ 163802.png") 0% 0%
+      no-repeat padding-box;
+    position: absolute;
+    top: 337px;
+    left: 80px;
+    z-index: 1;
+  }
+.new-vehicle-img {
+    width: 314px;
+    height: 431px;
+    background: transparent url("../assets/images/Group\ 163803.png") 0% 0%
+      no-repeat padding-box;
+    background-position: center;
+    position: absolute;
+    top: 313px;
+    left: 284px;
+    z-index: 2;
+  }
+.parts-acc-img {
+    width: 3250px;
+    height: 343px;
+    background: transparent url("../assets/images/Group\ 163804.png") 0% 0%
+      no-repeat padding-box;
+    position: absolute;
+    top: 337px;
+    left: 551px;
+    z-index: 1;
+  }

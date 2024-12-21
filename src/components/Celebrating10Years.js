@@ -12,11 +12,11 @@ function Celebrating10Years() {
         <h1 className="Inter-Medium-28px">Sandeep Aggarwal</h1>
         <h3 className="Inter-Medium-14px">Founder & CEO, Droom</h3>
       </div>
-      <h1 className="heading Inter-Bold-48px">Celebrating 10 Years</h1>
-      <h3 className="sub-heading Inter-Bold-24px">
+      <h1 className="heading-cb10y Inter-Bold-48px">Celebrating 10 Years</h1>
+      <h3 className="sub-heading-cb10y Inter-Bold-24px">
         A Decade of Revolutionizing the Auto Industry
       </h3>
-      <p className="content Inter-Regular-16px">
+      <p className="content-cb10y Inter-Regular-16px">
         Since its inception, Droom has transformed the automotive industry in
         India, revolutionizing how vehicles are bought and sold. Over the past
         decade, we've redefined the market and empowered millions with
