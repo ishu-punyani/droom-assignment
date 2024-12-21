@@ -47,33 +47,112 @@
   left: 1010px;
 }
 .used-vehicle-img {
-    width: 250px;
-    height: 343px;
-    background: transparent url("../assets/images/Group\ 163802.png") 0% 0%
-      no-repeat padding-box;
-    position: absolute;
-    top: 337px;
-    left: 80px;
-    z-index: 1;
-  }
+  width: 250px;
+  height: 343px;
+  background: transparent url("../assets/images/Group\ 163802.png") 0% 0%
+    no-repeat padding-box;
+  position: absolute;
+  top: 337px;
+  left: 80px;
+  z-index: 1;
+}
 .new-vehicle-img {
-    width: 314px;
-    height: 431px;
-    background: transparent url("../assets/images/Group\ 163803.png") 0% 0%
-      no-repeat padding-box;
-    background-position: center;
-    position: absolute;
-    top: 313px;
-    left: 284px;
-    z-index: 2;
-  }
+  width: 314px;
+  height: 431px;
+  background: transparent url("../assets/images/Group\ 163803.png") 0% 0%
+    no-repeat padding-box;
+  background-position: center;
+  position: absolute;
+  top: 313px;
+  left: 284px;
+  z-index: 2;
+}
 .parts-acc-img {
-    width: 3250px;
-    height: 343px;
-    background: transparent url("../assets/images/Group\ 163804.png") 0% 0%
-      no-repeat padding-box;
-    position: absolute;
-    top: 337px;
-    left: 551px;
-    z-index: 1;
-  }
+  width: 3250px;
+  height: 343px;
+  background: transparent url("../assets/images/Group\ 163804.png") 0% 0%
+    no-repeat padding-box;
+  position: absolute;
+  top: 337px;
+  left: 551px;
+  z-index: 1;
+}
+.highlights-rectangle {
+  width: 533px;
+  height: 480px;
+  background: #084061 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 0.8;
+  position: absolute;
+  top: 318.38px;
+  left: 827px;
+}
+.highlight-img-1 {
+  width: 48px;
+  height: 46px;
+  background: transparent url("../assets/images/monitor.png") 0% 0% no-repeat
+    padding-box;
+  position: absolute;
+  top: 45px;
+  left: 17px;
+}
+.highlight-img-2 {
+  width: 48px;
+  height: 47.8px;
+  background: transparent url("../assets/images/Group 147928.png") 0% 0%
+    no-repeat padding-box;
+  position: absolute;
+  top: 185px;
+  left: 17.81px;
+}
+.highlight-img-3 {
+  width: 51px;
+  height: 23px;
+  background: transparent url("../assets/images/Droom-Track-Day-logo.png") 0% 0%
+    no-repeat padding-box;
+  position: absolute;
+  top: 336.1px;
+  left: 17.81px;
+}
+.highlight-heading-1 {
+  width: 290px;
+  height: 24px;
+  position: absolute;
+  top: 40px;
+  left: 78px;
+}
+.highlight-heading-2 {
+  width: 257px;
+  height: 24px;
+  position: absolute;
+  top: 191.16px;
+  left: 78px;
+}
+.highlight-heading-3 {
+  width: 287px;
+  height: 24px;
+  position: absolute;
+  top: 334px;
+  left: 78px;
+}
+.highlight-content-1 {
+  width: 425px;
+  height: 74px;
+  position: absolute;
+  top: 71px;
+  left: 78px;
+}
+.highlight-content-2 {
+  width: 437px;
+  height: 74px;
+  position: absolute;
+  top: 222.16px;
+  left: 78px;
+}
+.highlight-content-3 {
+  width: 424px;
+  height: 74px;
+  position: absolute;
+  top: 365px;
+  left: 78px;
+}

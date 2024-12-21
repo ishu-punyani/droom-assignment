@@ -1,0 +1,162 @@
+.footer {
+  height: 350px;
+  width: 1440px;
+  position: relative;
+  background-color: #052a40;
+}
+h5 {
+  margin: 0;
+  position: absolute;
+}
+p {
+  margin: 0;
+  position: absolute;
+}
+.droom-logo-footer {
+  width: 194px;
+  height: 130.31px;
+  background: transparent url("../assets/images/droom-logo-footer.png") 0% 0%
+    no-repeat padding-box;
+  position: absolute;
+  background-position: center;
+  background-size: contain;
+  top: 38px;
+  left: 80px;
+}
+.calendar-icon {
+  width: 26.37px;
+  height: 26.37px;
+  background: transparent url("../assets/icons/calendar.svg") 0% 0% no-repeat
+    padding-box;
+  position: absolute;
+  background-position: center;
+  top: 200.85px;
+  left: 80px;
+}
+.calendar-text {
+  width: 297px;
+  height: 24px;
+  top: 202.03px;
+  left: 121.75px;
+}
+.email-icon {
+  width: 31.04px;
+  height: 21.82px;
+  background: transparent url("../assets/icons/mail.svg") 0% 0% no-repeat
+    padding-box;
+  position: absolute;
+  background-position: center;
+  top: 250.71px;
+  left: 80.97px;
+}
+.email-text {
+  width: 164px;
+  height: 24px;
+  top: 247.53px;
+  left: 123.93px;
+}
+.download-text {
+  width: 133px;
+  height: 21px;
+  top: 76px;
+  left: 666.4px;
+}
+.watch-text {
+  width: 77px;
+  height: 21px;
+  top: 76px;
+  left: 933.4px;
+}
+.follow-text {
+  width: 170px;
+  height: 21px;
+  top: 76px;
+  left: 1134.83px;
+}
+.apple-icon {
+  width: 25.55px;
+  height: 31.33px;
+  background: transparent url("../assets/icons/apple-black-logo.svg") 0% 0%
+    no-repeat padding-box;
+  position: absolute;
+  background-position: center;
+  top: 105.35px;
+  left: 666.4px;
+}
+.playstore-icon {
+  width: 25.93px;
+  height: 28.56px;
+  background: transparent url("../assets/images/Group\ 5526.png") 0% 0%
+    no-repeat padding-box;
+  position: absolute;
+  background-position: center;
+  top: 108.35px;
+  left: 720px;
+}
+.youtube-icon {
+  width: 42px;
+  height: 29.41px;
+  background: transparent url("../assets/images/youtube.png") 0% 0% no-repeat
+    padding-box;
+  position: absolute;
+  background-position: center;
+  top: 107.27px;
+  left: 933.4px;
+}
+.insta-icon {
+  width: 32px;
+  height: 32px;
+  background: transparent url("../assets/icons/instagram.svg") 0% 0% no-repeat
+    padding-box;
+  position: absolute;
+  background-position: center;
+  top: 110.93px;
+  left: 1134.83px;
+}
+.fb-icon {
+  width: 30px;
+  height: 30px;
+  background: transparent url("../assets/icons/facebook.svg") 0% 0% no-repeat
+    padding-box;
+  position: absolute;
+  background-position: center;
+  top: 110.93px;
+  left: 1184.83px;
+}
+.x-icon {
+  width: 30px;
+  height: 30px;
+  background: transparent url("../assets/icons/twitter\ \(1\).svg") 0% 0%
+    no-repeat padding-box;
+  position: absolute;
+  background-position: center;
+  top: 110.93px;
+  left: 1232.83px;
+}
+.linkedin-icon {
+  width: 30px;
+  height: 30px;
+  background: transparent url("../assets/icons/linkedin.svg") 0% 0% no-repeat
+    padding-box;
+  position: absolute;
+  background-position: center;
+  top: 110.93px;
+  left: 1280.83px;
+}
+.pinterest-icon {
+  width: 30px;
+  height: 30px;
+  background: transparent url("../assets/icons/pinterest.svg") 0% 0% no-repeat
+    padding-box;
+  position: absolute;
+  background-position: center;
+  top: 110.93px;
+  left: 1328.83px;
+}
+.rights {
+  width: 127px;
+  height: 21px;
+  position: absolute;
+  top: 295.25px;
+  left: 652.97px;
+}
