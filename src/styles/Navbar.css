@@ -1,5 +1,138 @@
 .navbar {
-    height: '761px';
-    width: '1440px';
-    /* background-image: ; */
+  width: 1440px;
+  height: 761px;
+  background: transparent url("../assets/images/Group\ 163800.png") 0% 0%
+    no-repeat padding-box;
+  background-position: center;
+}
+.navbar-content {
+  display: flex;
+  padding: 0px 80px;
+}
+.droom-logo {
+  min-width: 160px;
+  height: 108px;
+  margin-top: 17px;
+  margin-right: 121px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Cera-Pro {
+  text-align: center;
+  font: normal normal normal 14px/31px Cera Pro;
+  color: #ffffff;
+}
+.links {
+  width: 1200px;
+  height: 19px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 55px;
+  cursor: pointer;
+}
+.links div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#link1 {
+  width: 126px;
+}
+#link2 {
+  width: 86px;
+}
+#link3 {
+  width: 76px;
+}
+#link4 {
+  width: 80px;
+}
+#link5 {
+  width: 126px;
+}
+#link6 {
+  width: 114px;
+}
+#link7 {
+  width: 66px;
+}
+
+@media (max-width: 768px) {
+  /* Tablet view */
+  .navbar {
+    width: 100vw;
+  }
+  .navbar-content {
+    padding: 0px;
+    width: 100%;
+  }
+  .droom-logo {
+    min-width: 100px;
+    margin-top: 10px;
+    margin-right: 20px;
+  }
+  .Cera-Pro {
+    font-size: 12px;
+  }
+  .links {
+    width: 80%;
+    margin-top: 55px;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Tablet view */
+  .navbar {
+    width: 100vw;
+  }
+  .navbar-content {
+    padding: 0px;
+    width: 100%;
+  }
+  .droom-logo {
+    min-width: 80px;
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+  .Cera-Pro {
+    font-size: 14px;
+  }
+  .links {
+    width: 90%;
+    margin-top: 55px;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Tablet view */
+  .navbar {
+    width: 100vw;
+  }
+  .navbar-content {
+    padding: 0px;
+    width: 100%;
+    flex-direction: column;
+  }
+  .droom-logo {
+    height: 70px;
+    min-width: 100px;
+    margin-top: 10px;
+    margin-right: 0px;
+  }
+  .Cera-Pro {
+    font-size: 10px;
+  }
+  .links {
+    width: 100%;
+    margin-top: 0px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  .links div {
+    width: auto;
+  }
 }

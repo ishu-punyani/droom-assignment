@@ -1,0 +1,11 @@
+.celebrating10years {
+    height: 731px;
+    width: 1440px;
+    background-color: #031926;
+}
+
+@media (max-width: 768px) { /* Tablet view */
+    .celebrating10years {
+        width: 100%;
+      }
+  }
