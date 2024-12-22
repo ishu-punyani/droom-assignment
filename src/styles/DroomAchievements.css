@@ -68,7 +68,7 @@
   z-index: 2;
 }
 .parts-acc-img {
-  width: 3250px;
+  width: 325px;
   height: 343px;
   background: transparent url("../assets/images/Group\ 163804.png") 0% 0%
     no-repeat padding-box;
@@ -155,4 +155,183 @@
   position: absolute;
   top: 365px;
   left: 78px;
+}
+
+@media (max-width: 912px) {
+  /* Tablet view */
+  .droom-achievements {
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+  }
+  .heading-da {
+    width: 280px;
+    height: 50px;
+    top: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .sub-heading-da {
+    width: 250px;
+    height: 32px;
+    top: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .content-da {
+    width: 500px;
+    height: 60px;
+    top: 120px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .sub-heading-top-stories {
+    width: 110px;
+    height: 28px;
+    top: 220px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .used-vehicle-img {
+    width: 150px;
+    height: 200px;
+    background-size: cover;
+    top: 300px;
+    left: 30%;
+    transform: translateX(-30%);
+  }
+  .new-vehicle-img {
+    width: 200px;
+    height: 300px;
+    background-size: cover;
+    top: 260px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .parts-acc-img {
+    width: 150px;
+    height: 200px;
+    background-size: cover;
+    top: 300px;
+    left: 70%;
+    transform: translateX(-70%);
+  }
+  .sub-heading-top-highlights {
+    width: 145px;
+    height: 28px;
+    top: 570px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .highlights-rectangle {
+    width: 350px;
+    height: 310px;
+    top: 600px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .highlight-img-1 {
+    width: 35px;
+    height: 35px;
+    background-size: cover;
+    top: 20px;
+    left: 10px;
+  }
+  .highlight-img-2 {
+    width: 36px;
+    height: 37px;
+    background-size: cover;
+    top: 120px;
+    left: 10px;
+  }
+  .highlight-img-3 {
+    width: 36px;
+    height: 18px;
+    background-size: cover;
+    top: 220px;
+    left: 10px;
+  }
+  .highlight-heading-1 {
+    width: 240px;
+    height: 24px;
+    position: absolute;
+    top: 20px;
+    left: 60px;
+  }
+  .highlight-heading-2 {
+    width: 240px;
+    height: 24px;
+    top: 115px;
+    left: 60px;
+  }
+  .highlight-heading-3 {
+    width: 287px;
+    height: 24px;
+    top: 215px;
+    left: 60px;
+  }
+  .highlight-content-1 {
+    width: 280px;
+    height: 74px;
+    top: 40px;
+    left: 60px;
+  }
+  .highlight-content-2 {
+    width: 280px;
+    height: 74px;
+    top: 140.16px;
+    left: 60px;
+  }
+  .highlight-content-3 {
+    width: 280px;
+    height: 74px;
+    top: 235px;
+    left: 60px;
+  }
+}
+@media (max-width: 520px) {
+  /* Mobile view */
+  .content-da {
+    width: 320px;
+  }
+}
+@media (max-width: 425px) {
+  /* Mobile view */
+  .highlights-rectangle {
+    width: 315px;
+    height: 340px;
+  }
+  .highlight-content-1 {
+    width: 255px;
+  }
+  .highlight-content-2 {
+    width: 255px;
+  }
+  .highlight-content-3 {
+    width: 255px;
+  }
+  .used-vehicle-img {
+    width: 100px;
+    height: 150px;
+  }
+  .new-vehicle-img {
+    width: 150px;
+    height: 200px;
+    top: 275px;
+  }
+  .parts-acc-img {
+    width: 100px;
+    height: 150px;
+  }
+  .sub-heading-top-highlights {
+    top: 520px;
+  }
+  .highlights-rectangle {
+    width: 320px;
+    height: 310px;
+    top: 580px;
+  }
+  .highlight-heading-3 {
+    width: 250px;
+  }
 }

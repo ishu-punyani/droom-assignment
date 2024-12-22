@@ -5,7 +5,7 @@ import "../styles/Pre-Defined-Fonts.css";
 function Footer() {
   return (
     <div className='footer'>
-      <div className='droom-logo-footer'></div>
+      <a className='droom-logo-footer' href='https://droom.in/' target='_blank'></a>
       <div className='calendar-icon'></div>
       <p className='Inter-Regular-18px calendar-text'>10 October 2024, Gurugram Haryana</p>
       <div className='email-icon'></div>

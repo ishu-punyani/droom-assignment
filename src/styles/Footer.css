@@ -20,6 +20,7 @@ p {
   position: absolute;
   background-position: center;
   background-size: contain;
+  cursor: pointer;
   top: 38px;
   left: 80px;
 }
@@ -159,4 +160,205 @@ p {
   position: absolute;
   top: 295.25px;
   left: 652.97px;
+}
+
+@media (max-width: 912px) {
+  /* Tablet view */
+  .footer {
+    height: 350px;
+    width: 100%;
+  }
+  .droom-logo-footer {
+    width: 194px;
+    height: 130.31px;
+    top: 40px;
+    left: 20px;
+  }
+  .calendar-icon {
+    top: 185px;
+    left: 22px;
+  }
+  .calendar-text {
+    width: 270px;
+    top: 187px;
+    left: 55px;
+  }
+  .email-icon {
+    top: 230px;
+    left: 20px;
+  }
+  .email-text {
+    top: 230px;
+    left: 60px;
+  }
+  .download-text {
+    width: 125px;
+    top: 50px;
+    left: 450px;
+  }
+  .watch-text {
+    top: 130px;
+    left: 450px;
+  }
+  .follow-text {
+    top: 210px;
+    left: 450px;
+  }
+  .apple-icon {
+    top: 80px;
+    left: 450px;
+  }
+  .playstore-icon {
+    top: 83px;
+    left: 495px;
+  }
+  .youtube-icon {
+    top: 165px;
+    left: 450px;
+  }
+  .insta-icon {
+    top: 240px;
+    left: 450px;
+  }
+  .fb-icon {
+    top: 240px;
+    left: 500px;
+  }
+  .x-icon {
+    top: 240px;
+    left: 550px;
+  }
+  .linkedin-icon {
+    top: 240px;
+    left: 600px;
+  }
+  .pinterest-icon {
+    top: 240px;
+    left: 650px;
+  }
+  .rights {
+    top: 310px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+@media (max-width: 720px) {
+  /* Tablet view */
+  .download-text {
+    left: 350px;
+  }
+  .watch-text {
+    left: 350px;
+  }
+  .follow-text {
+    left: 350px;
+  }
+  .apple-icon {
+    left: 350px;
+  }
+  .playstore-icon {
+    left: 390px;
+  }
+  .youtube-icon {
+    left: 350px;
+  }
+  .insta-icon {
+    left: 350px;
+  }
+  .fb-icon {
+    left: 400px;
+  }
+  .x-icon {
+    left: 450px;
+  }
+  .linkedin-icon {
+    left: 500px;
+  }
+  .pinterest-icon {
+    left: 550px;
+  }
+  .rights {
+    top: 310px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+@media (max-width: 600px) {
+  /* Mobile view */
+  .footer {
+    height: 500px;
+    width: 100%;
+  }
+  .droom-logo-footer {
+    width: 194px;
+    height: 130.31px;
+    top: 20px;
+    left: 15px;
+  }
+  .calendar-icon {
+    top: 165px;
+    left: 15px;
+  }
+  .calendar-text {
+    top: 167px;
+    left: 45px;
+  }
+  .email-icon {
+    top: 215px;
+    left: 12px;
+  }
+  .email-text {
+    top: 215px;
+    left: 50px;
+  }
+  .download-text {
+    width: 125px;
+    top: 270px;
+    left: 15px;
+  }
+  .watch-text {
+    top: 330px;
+    left: 15px;
+  }
+  .follow-text {
+    top: 390px;
+    left: 15px;
+  }
+  .apple-icon {
+    top: 295px;
+    left: 15px;
+  }
+  .playstore-icon {
+    top: 298px;
+    left: 55px;
+  }
+  .youtube-icon {
+    top: 355px;
+    left: 15px;
+  }
+  .insta-icon {
+    top: 415px;
+    left: 15px;
+  }
+  .fb-icon {
+    top: 415px;
+    left: 55px;
+  }
+  .x-icon {
+    top: 415px;
+    left: 95px;
+  }
+  .linkedin-icon {
+    top: 415px;
+    left: 135px;
+  }
+  .pinterest-icon {
+    top: 415px;
+    left: 175px;
+  }
+  .rights {
+    top: 460px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
 }

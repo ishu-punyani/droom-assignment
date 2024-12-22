@@ -130,9 +130,198 @@
   left: 748.76px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 912px) {
   /* Tablet view */
   .celebrating10years {
+    height: 1000px;
     width: 100%;
+  }
+  .building {
+    height: 300px;
+    width: 300px;
+    top: 50px;
+    left: 20px;
+    background-size: cover;
+  }
+  .sandeep-image {
+    height: 250px;
+    width: 220px;
+    background-size: cover;
+    top: 100px;
+    left: 60px;
+  }
+  .rectangle {
+    width: 440px;
+    height: 220px;
+    background-size: cover;
+    top: 160px;
+  }
+  .sandeep-aggarwal {
+    width: 200px;
+    height: 55px;
+    top: 290px;
+    left: 70px;
+  }
+  .sandeep-aggarwal h1 {
+    width: 170px;
+    height: 30px;
+    top: 6px;
+    left: 15px;
+  }
+  .sandeep-aggarwal h3 {
+    width: 147px;
+    height: 19px;
+    top: 38px;
+    left: 15px;
+  }
+  .heading-cb10y {
+    width: 280px;
+    height: 64px;
+    top: 10px;
+    left: 380px;
+  }
+  .sub-heading-cb10y {
+    width: 360px;
+    height: 32px;
+    top: 60px;
+    left: 380px;
+  }
+  .content-cb10y {
+    width: 380px;
+    height: 66px;
+    top: 90px;
+    left: 380px;
+  }
+  .droom-badshah-ticket {
+    width: 350px;
+    height: 150px;
+    background-size: contain;
+    top: 190px;
+    left: 380px;
+  }
+  .Group-164796 {
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    top: 480px;
+  }
+  .spl-guest-text {
+    width: 428px;
+    height: 48px;
+    top: 750px;
+    left: 20px;
+  }
+  .Badshah {
+    width: 320px;
+    height: 60px;
+    background-size: contain;
+    top: 800px;
+    left: 55px;
+  }
+  .Badshah-car {
+    width: 320px;
+    height: 330px;
+    background-size: cover;
+    top: 540px;
+    left: 450px;
+  }
+}
+@media (max-width: 768px) {
+  /* Mobile view */
+  .celebrating10years {
+    height: 1500px;
+    width: 100%;
+  }
+  .building {
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .sandeep-image {
+    top: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .rectangle {
+    width: 320px;
+    top: 160px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .sandeep-aggarwal {
+    top: 290px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .heading-cb10y {
+    top: 380px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .sub-heading-cb10y {
+    width: 400px;
+    top: 430px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .content-cb10y {
+    width: 400px;
+    top: 490px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .droom-badshah-ticket {
+    width: 400px;
+    height: 200px;
+    top: 600px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .Group-164796 {
+    height: 200px;
+    top: 900px;
+  }
+  .spl-guest-text {
+    width: 320px;
+    top: 800px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .Badshah {
+    width: 420px;
+    height: 80px;
+    top: 850px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .Badshah-car {
+    width: 450px;
+    height: 460px;
+    top: 1000px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+@media (max-width: 550px) {
+  /* Mobile view */
+  .celebrating10years {
+    height: 1400px;
+  }
+  .sub-heading-cb10y {
+    width: 320px;
+  }
+  .content-cb10y {
+    width: 320px;
+  }
+  .droom-badshah-ticket {
+    width: 320px;
+  }
+  .Badshah {
+    width: 320px;
+    height: 60px;
+  }
+  .Badshah-car {
+    width: 320px;
+    height: 330px;
   }
 }

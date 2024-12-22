@@ -1,5 +1,6 @@
 import React from "react";
 import "../styles/Navbar.css";
+import "../styles/Pre-Defined-Fonts.css";
 
 function Navbar() {
   const scrollToSection = (targetClass) => {
@@ -11,7 +12,7 @@ function Navbar() {
   return (
     <div className="navbar">
       <div className="navbar-content">
-        <div className="droom-logo"></div>
+      <a className='droom-logo' href='https://droom.in/' target='_blank'></a>
         <div className="links">
           <div id="link1" className="Cera-Pro" onClick={() => scrollToSection('celebrating10years')}>
             Celebrating 10 Years

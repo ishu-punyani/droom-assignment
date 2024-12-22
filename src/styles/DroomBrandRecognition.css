@@ -20,3 +20,46 @@
   top: 92px;
   left: 80px;
 }
+@media (max-width: 912px) {
+  /* Tablet view */
+  .droomBrandRecognition {
+    height: 650px;
+    width: 100%;
+  }
+  .dbr {
+    width: 320px;
+    height: 64px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .recognition-img {
+    width: 760px;
+    height: 485px;
+    background-size: contain;
+    top: 92px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+@media (max-width: 768px) {
+  /* Mobile view */
+  .droomBrandRecognition {
+    height: 500px;
+    width: 100%;
+  }
+  .recognition-img {
+    width: 600px;
+    height: 400px;
+  }
+}
+@media (max-width: 615px) {
+  /* Mobile view */
+  .droomBrandRecognition {
+    height: 400px;
+    width: 100%;
+  }
+  .recognition-img {
+    width: 320px;
+    height: 220px;
+  }
+}
